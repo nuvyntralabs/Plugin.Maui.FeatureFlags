@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.9
+
+- Align the documented pack artifact version with the library version
+- Re-validate evaluate, targeting, rollout, HTTPS remote provider, cache, and override (45 tests)
+
 ## 1.0.3
 
 - Rebrand package metadata and catalog references to MauiEssentials.

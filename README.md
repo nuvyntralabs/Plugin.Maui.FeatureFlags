@@ -216,7 +216,7 @@ dotnet build samples/Plugin.Maui.FeatureFlags.Sample/Plugin.Maui.FeatureFlags.Sa
 dotnet pack src/Plugin.Maui.FeatureFlags/Plugin.Maui.FeatureFlags.csproj -c Release -o artifacts
 ```
 
-The `.nupkg` is written to `artifacts/Plugin.Maui.FeatureFlags.1.0.7.nupkg`.
+The `.nupkg` is written to `artifacts/Plugin.Maui.FeatureFlags.1.0.9.nupkg`.
 
 ## License
 
